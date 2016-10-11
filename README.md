@@ -1,4 +1,4 @@
-# self-intro-nsyuyu
+# 自己紹介
 東野研究室所属の西村です．
 
 出身は兵庫県加古川市，出身校は明石高専で，
@@ -10,3 +10,6 @@
 ruby, gitマスターを目指したいと思います．
 
 以上です．よろしくお願いします．
+
+# レポート課題
+[2016/10/5 第一回レポート](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)
