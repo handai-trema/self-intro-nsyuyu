@@ -13,7 +13,7 @@ ruby, gitマスターを目指したいと思います．
 
 # レポート課題
 
-* [2016/10/5 第一回レポート](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)
+* [2016/10/5 第一回レポート(Hello Trema，スイッチの切断イベント)](https://github.com/handai-trema/hello-trema-nsyuyu/blob/master/report/report1.md)
 * [2016/10/12 第二回レポート(Cbench)](https://github.com/handai-trema/cbench-nsyuyu/blob/master/report/report.md)
 * [2016/10/12 第二回レポート(learning-switch)](https://github.com/handai-trema/learning-switch-nsyuyu/blob/master/report/report.md)
 * [2016/10/19 第三回レポート(patch panel)](https://github.com/handai-trema/patch-panel-nsyuyu/blob/master/report.md)
